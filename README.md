@@ -5,8 +5,7 @@ Iw3-SP-DEMO-MOD Includes:
 DEV CONSOLSE
 MISSION SAVING!
 
-
-<img width="1279" height="959" alt="iw3-sp mod" src="https://github.com/user-attachments/assets/e804c451-8190-451e-a94b-85be39323066" />
+![iw3-sp](https://github.com/user-attachments/assets/28ee6a34-bd6a-4a23-b063-28f72231c555)
 
 
 
