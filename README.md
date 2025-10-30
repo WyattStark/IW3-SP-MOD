@@ -2,7 +2,7 @@
 
 
 Iw3-SP-DEMO-MOD Includes: 
-DEV CONSOLSE
+DEV CONSOLE
 MISSION SAVING!
 
 ![iw3-sp](https://github.com/user-attachments/assets/28ee6a34-bd6a-4a23-b063-28f72231c555)
